@@ -73,4 +73,4 @@ This project is developed strictly for educational purposes and authorized local
 
 **Name:** Saad Zulfiqar  
 **Internship Domain:** Cyber Security  
-**Project:** Python Keylogger — Educational Security Lab
+**Project:** Python Keylogger Educational Security Lab
